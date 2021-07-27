@@ -196,10 +196,10 @@
                 },
                 "parameters": {
                     "vmName": {
-                        "value": "hellovm"
+                        "value": "[parameters('virtualMachineComputerName')]"
                     },
                     "location": {
-                        "value": "centralus"
+                        "value": "[parameters('location')]"
                     },
                     "VSTSAccountUrl": {
                         "value": "https://dev.azure.com/joshuabarnesedward/"
