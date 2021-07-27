@@ -196,22 +196,22 @@
                 },
                 "parameters": {
                     "vmName": {
-                        "value": "vengatesh"
+                        "value": "hellovm"
                     },
                     "location": {
                         "value": "centralus"
                     },
                     "VSTSAccountUrl": {
-                        "value": "https://dev.azure.com/DevopsCPTTraining/"
+                        "value": "https://dev.azure.com/joshuabarnesedward/"
                     },
                     "TeamProject": {
-                        "value": "CPT-Automation"
+                        "value": "arm-vm"
                     },
                     "DeploymentGroup": {
                         "value": "testarmpat"
                     },
                     "PATToken": {
-                        "value": "5gy3shqwlrmzkbnsmfkqwhmnxc5x7u3xdxxfouc46h6eirw7mbua"
+                        "value": "5b4ok6zwbaszpu2ku76rgigsreud7q2fsl3i7yf5tboa5s7xwmyq"
                     }
                 }
             },
